@@ -46,8 +46,8 @@ mc838/claw-agent
 ```
 
 3. **Usage（机器性能配置）**  
-   - CPU = 0.2  
-   - Memory = 128M
+   - CPU = 0.1  
+   - Memory = 64M
 
 4. **Network（添加网络）**  
    - 网络端口设置：
