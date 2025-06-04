@@ -42,17 +42,17 @@
 
 2. **Image（镜像地址）**  
 ```env
-mc838/claw-agent
+mc838/claw-hy2
 ```
 
 3. **Usage（机器性能配置）**  
-   - CPU = 0.1  
-   - Memory = 64M
+   - CPU = 0.2  
+   - Memory = 128M
 
 4. **Network（添加网络）**  
    - 网络端口设置：
-   - 开启 80 端口
-   - 开启udp端口20000-50000
+   - 开启 80 端口 选grpcs://
+   - 开启 udp 端口 选udp://
    - 所有端口都选 Public（公网）
 
 5. **Environment Variables（环境变量）**  
