@@ -4,7 +4,7 @@
 ![Docker 镜像大小](https://img.shields.io/docker/image-size/mc838/claw-hy2/latest)
 ![Docker 拉取次数](https://img.shields.io/docker/pulls/mc838/claw-hy2)
 
-## ➡️Claw.Cloud官网(GitHub注册送5美元地址)：[run.claw.cloud](https://console.run.claw.cloud/signin?link=M9P7GXP3M3W5)
+## ➡️[Claw.Cloud](https://console.run.claw.cloud/signin?link=M9P7GXP3M3W5)官网(GitHub注册送5美元地址)：[Claw.Cloud](https://console.run.claw.cloud/signin?link=M9P7GXP3M3W5)
 
 这是一个用于部署 [Hysteria2 ](https://github.com/vipmc838/claw-hy2)的轻量级代理服务器 Docker 镜像 ，用于通过爪云（ClawCloud）服务进行外网连接。该镜像自动安装并配置 Hysteria2，支持自定义内网端口、外网域名和连接密码。
 ---
