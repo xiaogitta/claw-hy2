@@ -57,15 +57,15 @@ mc838/claw-hy2
 
 4. **Network（添加网络）**  
    - 网络端口设置：
-   - 开启 80 端口 选grpcs://
+   - 开启 80 端口 选grpcs:// （可选）
    - 开启 udp 端口 选udp://
    - 所有端口都选 Public（公网）
 
 5. **Environment Variables（环境变量）**  
 ```env
-SERVER_DOMAIN=abc.eu-central-1.clawcloudrun.com
-UDP_PORT=5678
-PASSWORD=3fa85f64-5717-4562-b3fc-2c963f66afa6
+SERVER_DOMAIN=abc.eu-central-1.clawcloudrun.com   （80端口地址或udp地址）
+UDP_PORT=5678          （你开启udp设置的端口）
+PASSWORD=3fa85f64-5717-4562-b3fc-2c963f66afa6     （UUID）
 ```
 
 ✅ 设置完成后即可点击部署。
